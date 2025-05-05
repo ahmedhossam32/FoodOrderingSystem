@@ -1,4 +1,4 @@
-# 🍔 SEFINAL – Java Food Ordering System
+# 🍔 Java Food Ordering System
 
 A backend-focused food delivery system built in Java, simulating a Talabat-like platform. Designed with clean OOP principles, SOLID architecture, and multiple design patterns. The system supports Admin, Client, and Delivery roles with realistic role-based functionality.
 
